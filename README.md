@@ -6,7 +6,7 @@
     <img align="right" src="https://i.giphy.com/13HBDT4QSTpveU.webp" alt="Programmation" width="200" />
 
   <p>⚡ Crafting innovative projects | Exploring JavaScript mysteries | Creating cool stuff with Python</p>
-    <p>✔️ Python | Web Development | DSA</p>
+    <p>✔️ Web Development | DevOps | DSA</p>
     <p>💬 Always excited to team up on exciting coding challenges and open-source projects!</p>
     <p>📬 Reach Me: dhruvgcoder@gmail.com</p>
     <p>✨ Let’s Build Something Amazing Together! ✨</p>

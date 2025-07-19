@@ -1,15 +1,6 @@
 
  
-<h2 align="center">Building APIs that actually make sense</h2>
-    <img align="right" src="https://i.giphy.com/13HBDT4QSTpveU.webp" alt="Programmation" width="200" />
-
-
- - Full-stack learner </br>
- - Learning React<br/>
- - Writing backend & clean APIs 
-
-
----
+<h2 align="center">Writing backend & clean APIs</h2>
 
 ### Core Stack
 
@@ -33,8 +24,6 @@
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
 
 </p>
-
----
 
 ###  Cloud Skills
 
@@ -63,19 +52,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
 </p>
 
----
 
-###  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvgcoder&show_icons=true&theme=tokyonight" width="48%"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhruvgcoder&theme=tokyonight" width="48%" />
-</p>
-
----
-
-###  Connect
-
-- [X](https://x.com/your-dhruvgcoder)
 
  

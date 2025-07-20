@@ -2,7 +2,7 @@
  
 <h2 align="center">Writing backend & clean APIs</h2>
 
-### Core Stack
+**Core Stack**
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
@@ -17,7 +17,7 @@
 
 ---
 
-### Currently Learning
+**Currently Learning**
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
@@ -25,7 +25,7 @@
 
 </p>
 
-###  Cloud Skills
+**Cloud Skills**
 
 <p>
   <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=azure-devops&logoColor=white&style=for-the-badge" />
@@ -35,7 +35,7 @@
 
 ---
 
-###  Projects (Soon to be Public)
+**Projects (Soon to be Public)**
 
 - Auth system with Express, JWT & Zod  
 - Notes REST API using MongoDB  
@@ -43,7 +43,7 @@
 
 ---
 
-###  Dev Tools
+**Dev Tools**
 
 <p>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
